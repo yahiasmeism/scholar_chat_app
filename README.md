@@ -6,7 +6,7 @@
 <img src="screenshot2.jpg" height="500">
 <img src="screenshot3.jpg" height="500">
   <div/>
-<br/>
+<hr>
 
 # Scholar Chat: A Chat Application Designed for Students
 
