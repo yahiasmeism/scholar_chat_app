@@ -16,7 +16,8 @@ Scholar Chat can be used in a variety of contexts, including:
 - Collaborating on Projects: You can use Scholar Chat to collaborate with your classmates on academic projects.
 - Staying Connected with Friends: You can use Scholar Chat to stay connected with your friends at school, even when you're not physically present at school.
 
-![](screenshot1.jpg){:width="200"}
+<img src="screenshot1.png" width="200" height="150">
+
 
 
 
