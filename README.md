@@ -19,3 +19,4 @@ Scholar Chat can be used in a variety of contexts, including:
 ![](screenshot1.jpg){:width="200"}
 
 
+
