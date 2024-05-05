@@ -1,3 +1,13 @@
+
+# Preview :
+
+<div>
+  <img src="screenshot1.jpg" height="500">
+<img src="screenshot2.jpg" height="500">
+<img src="screenshot3.jpg" height="500">
+  <div/>
+<br/>
+
 # Scholar Chat: A Chat Application Designed for Students
 
 Scholar Chat is a chat application specifically designed for students. It allows you to easily and simply communicate with your peers at school, share ideas and information, and collaborate on academic projects. Scholar Chat features a simple and seamless interface that makes it easy to get started and use, even for beginner users.
@@ -16,13 +26,6 @@ Scholar Chat can be used in a variety of contexts, including:
 - Collaborating on Projects: You can use Scholar Chat to collaborate with your classmates on academic projects.
 - Staying Connected with Friends: You can use Scholar Chat to stay connected with your friends at school, even when you're not physically present at school.
 
-# Preview :
-
-<div>
-  <img src="screenshot1.jpg" height="500">
-<img src="screenshot2.jpg" height="500">
-<img src="screenshot3.jpg" height="500">
-  <div/>
 
 
 
