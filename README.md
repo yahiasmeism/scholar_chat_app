@@ -20,8 +20,8 @@ Scholar Chat can be used in a variety of contexts, including:
 
 <div>
   <img src="screenshot1.jpg" height="500">
-<img src="screenshot1.jpg" height="500">
-<img src="screenshot1.jpg" height="500">
+<img src="screenshot2.jpg" height="500">
+<img src="screenshot3.jpg" height="500">
   <div/>
 
 
