@@ -1,11 +1,9 @@
 
 # Preview :
 
-<div>
-  <img src="screenshot1.jpg" height="500">
-<img src="screenshot2.jpg" height="500">
-<img src="screenshot3.jpg" height="500">
-  <div/>
+
+  <img src="app_preview.png">
+
 <hr>
 
 # Scholar Chat: A Chat Application Designed for Students
