@@ -2,7 +2,7 @@
 # Preview :
 
 
-  <img src="app_preview.png">
+  <img src="app_preview (2).png">
 
 <hr>
 
